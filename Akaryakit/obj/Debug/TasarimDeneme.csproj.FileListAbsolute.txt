@@ -1,0 +1,26 @@
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.exe.config
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.exe
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.pdb
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.Design.dll
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.dll
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.Fonts.dll
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.csprojResolveAssemblyReference.cache
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.Properties.Resources.resources
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.csproj.GenerateResource.Cache
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.exe
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.pdb
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.frmGiris.resources
+c:\users\akif\documents\visual studio 2013\Projects\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.frmYonetim.resources
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.exe.config
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.exe
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.pdb
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.exe
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\TasarimDeneme.pdb
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.Design.dll
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.dll
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.csprojResolveAssemblyReference.cache
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.frmGiris.resources
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.frmYonetim.resources
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.Properties.Resources.resources
+C:\Users\servet\Desktop\TasarimDeneme\TasarimDeneme\obj\Debug\TasarimDeneme.csproj.GenerateResource.Cache
