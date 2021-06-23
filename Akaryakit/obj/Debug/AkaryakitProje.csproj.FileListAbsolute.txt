@@ -60,3 +60,41 @@ C:\Users\Akif\Desktop\YAZILIM\TasarimDeneme\TasarimDeneme\bin\Debug\Akaryakit.ex
 C:\Users\Akif\Desktop\YAZILIM\TasarimDeneme\TasarimDeneme\obj\Debug\AkaryakitProje.csproj.ResolveComReference.cache
 C:\Users\Akif\Desktop\YAZILIM\TasarimDeneme\TasarimDeneme\obj\Debug\Akaryakit.exe
 C:\Users\Akif\Desktop\YAZILIM\TasarimDeneme\TasarimDeneme\obj\Debug\Akaryakit.pdb
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\Akaryakit.exe.config
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\Akaryakit.exe
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\Akaryakit.pdb
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\MetroFramework.Design.dll
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\MetroFramework.dll
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\AkaryakitProje.csprojResolveAssemblyReference.cache
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\AkaryakitProje.csproj.ResolveComReference.cache
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmAraForm.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmGunsonu.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmHesapIslemleri.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmIstatistik.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmKullaniciSatislari.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmPanelFiyat.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmPromosyonTanimla.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmSatisRapor.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmStandart.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmKullaniciGuncelleVeGonder.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmAyarVeDuzenlemeler.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmGiris.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmKullaniciEkle.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmKullaniciGuncelle.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmMuhasebe.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmPompaIslem.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmSatislar.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmTank.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmTankIslem.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmTest.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmUrun.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmYakitSeviye.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmYeniKayit.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmYetkilendirme.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmYetkiVer.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.frmYonetim.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.Properties.Resources.resources
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\AkaryakitProje.csproj.GenerateResource.Cache
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.exe
+C:\Users\Akif65\Desktop\c# Metro\Fuel-sales-automation-with-C-Sharp-MetroFramework-\Akaryakit\obj\Debug\Akaryakit.pdb
