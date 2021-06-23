@@ -33,7 +33,7 @@
   <h1>3 - Kullanım</h1>
   
   <ol>
-    <li>![image](https://user-images.githubusercontent.com/37072981/123106265-28f46480-d441-11eb-92f1-4c063594dcef.png)<br> Şeklinde giriş bilgilerimizi giriyoruz..</li>
+    <li><img src="https://user-images.githubusercontent.com/37072981/123106265-28f46480-d441-11eb-92f1-4c063594dcef.png"><br> Şeklinde giriş bilgilerimizi giriyoruz..</li>
     <li>![image](https://user-images.githubusercontent.com/37072981/123106575-648f2e80-d441-11eb-9ef9-5ba50f4fbf9f.png)<br> Giriş yapınca admin paneli açılacak...</li>
     <li>![image](https://user-images.githubusercontent.com/37072981/123106853-ae781480-d441-11eb-8fb9-d19bfe082e66.png)<br> Hoşumuza giden temayı seçip kaydet diyoruz...</li>
     <li>![image](https://user-images.githubusercontent.com/37072981/123107338-23e3e500-d442-11eb-83dd-7f593592327b.png)<br> Örnek satış paneli promosyon menüsünden promosyonlar tanımlanabilir.</li>
@@ -47,7 +47,6 @@
   <li>![image](https://user-images.githubusercontent.com/37072981/123109480-f39d4600-d443-11eb-83bb-327582c9d0b4.png) <br> Kullanıcı paneli...</li>
   <li>![image](https://user-images.githubusercontent.com/37072981/123110027-64dcf900-d444-11eb-91c7-27a95971a7b9.png) <br> Muhasebeci paneli...</li>
   </ol>
-  ![image](https://user-images.githubusercontent.com/37072981/123110442-c56c3600-d444-11eb-9add-82b11216ec73.png)
 
   
   
